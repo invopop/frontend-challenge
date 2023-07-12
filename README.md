@@ -1,6 +1,10 @@
 # Frontend Challenge
 
-Hi! Welcome to the frontend challenge. First and foremost, **read this document carefully**, as we want to make sure all the implementation details are well understood.
+Hi! Welcome to this Frontend Challenge! First and foremost, please read this document carefully, as we want to make sure all the implementation details are well understood.
+
+The challenge has been designed so that you can demonstrate your skills at problem solving, software architecture, and domain knowledge. We encourage you to clone, **not fork**, your implementation on Github (or similar) as a public repository, preferably without mentioning the name of the company you received the challenge from.
+
+Please also add a LICENSE file to your implementation. Ideally something that protects your copyrights like [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## The Challenge
 
@@ -32,7 +36,7 @@ Examples:
 Items: CAP, TSHIRT, MUG
 Total: 32.50€
 
-Items: CAP, TSHIRT, PEN
+Items: CAP, TSHIRT
 Total: 25.00€
 
 Items: TSHIRT, TSHIRT, TSHIRT, CAP, TSHIRT
@@ -45,7 +49,7 @@ Total: 62.50€
 ### The solution should
 
 * Be written in Typescript (let us know if this is your first time!)
-* Be built using Svelte (or similar component based framework)
+* Be built using Svelte, React, Vue, or similar component based framework.
 * Focus on solving the business problem (less boilerplate!)
 * Have a clear structure.
 * Be easy to grow with new functionality.
